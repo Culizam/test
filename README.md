@@ -1,4 +1,5 @@
 # test
 just testing
-
-Branch2 war aktiv hier!
+=======
+Branch 1 Änderungen
+Nach resolving...ipak 1
